@@ -1,0 +1,44 @@
+body{
+    background-image: url(../img/background-2.jpg);
+}
+nav{
+    background-image: url(../img/background.jpg);
+    opacity:0.8;
+    border-style: outset;
+}
+.jumbotron .container .welcome img{
+align-content: center;
+width: 250px;
+height: 200px;
+margin-left:200px;
+    margin-right:500px;
+    padding-top: 0;
+}
+.jumbotron{
+    background: rgba(200, 54, 54, 0.5); 
+}
+.carousel-item img{
+    width: 500px;
+    height:400px;
+    padding-bottom: 50px;
+    border-radius: 50px;
+    opacity: 0.9;
+}
+.jumbotron {
+    font-family: fantasy;
+    
+    
+}
+.jumbotron h1{
+    font-size: 100px;
+}
+.jumbotron p{
+    font-size: 25px;
+}
+.logo2 img{
+    width:100px;
+    height:100px;
+}
+.log{
+    float:right;
+}
