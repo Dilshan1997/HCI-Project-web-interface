@@ -5,6 +5,7 @@ nav{
     background-image: url(../img/background.jpg);
     opacity:0.8;
     border-style: outset;
+    
 }
 .jumbotron .container .welcome img{
 align-content: center;
@@ -24,16 +25,18 @@ margin-left:200px;
     border-radius: 50px;
     opacity: 0.9;
 }
-.jumbotron {
+.jumbotron{
     font-family: fantasy;
     
     
 }
 .jumbotron h1{
     font-size: 100px;
+    color:rgb(241, 229, 63);
 }
-.jumbotron p{
-    font-size: 25px;
+.jumbotron .lead{
+    font-size: 35px;
+    color:White;
 }
 .logo2 img{
     width:100px;
@@ -42,3 +45,42 @@ margin-left:200px;
 .log{
     float:right;
 }
+.logo img{
+    height:70px;
+    width:160px;
+}
+.my-raw{
+    Width:100%;
+}
+.nav {
+    margin-right: 1000px;
+    margin-bottom: 0;
+    
+    
+}
+.catagories{
+margin-top:100px;
+}
+
+input[type=search]{
+    align-content: center;
+    margin-left: 100px;
+}
+.navigation ul{
+    margin-left: 50px;
+    
+  
+}
+.navigation ul a{
+   font-size:20px;
+   font-family: cursive;
+   color:yellowgreen;
+    
+  
+}
+
+.b1 .b2{
+    font-size: 50px;
+    color:yellow;
+}
+
